@@ -9,22 +9,22 @@ const routes = [
   {
     path: '/',
     name: 'home',
-    component: Home
+    component: Home,
   },
   {
     path: '/schedule',
     name: 'schedule',
-    component: Schedule
+    component: Schedule,
   },
   {
     path: '/images',
     name: 'images',
-    component: Images
+    component: Images,
   },
   {
     path: '/about',
     name: 'about',
-    component: About
+    component: About,
   }
 ]
 
